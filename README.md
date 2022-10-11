@@ -110,7 +110,7 @@ Below is the list of major packages used in this project. The complete list of p
 ## Contact
 Created by [@shyamsundarshukla1991] - feel free to contact me!
 
-email-shyamsundarshukla1991@gmail.com
+email - shyamsundarshukla1991@gmail.com
 
 
 <!-- Optional -->
