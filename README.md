@@ -104,7 +104,7 @@ Below is the list of major packages used in this project. The complete list of p
   - https://stackoverflow.com/
   
   Special thanks to people who have contributed to stackoverflow questions whose answers have been really helpful for my project.
-- This project was based on the Machine learning course content provided by Upgrad[Upgrad](https://www.upgrad.com).
+- This project was based on the Machine learning course content provided by [Upgrad](https://www.upgrad.com).
 
 
 ## Contact
